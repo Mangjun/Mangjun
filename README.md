@@ -4,9 +4,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm a student aspiring to become an <b>Embedded Software Developer</b>. 🚀<br/>
-  I am currently focused on learning C programming, Linux and systems programming for embedded systems.<br/>
-  Also, I develop REST API server like Spring.<br/><br/>
+  👋&nbsp; Hi there! I'm a student aspiring to become an <b>Software Developer</b>.
 </p>
 
 
