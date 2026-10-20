@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif">
+<rect width="1200" height="320" rx="16" fill="#FFFFFF"/>
+<text x="56" y="112" font-size="64" font-weight="700" fill="#1E2226" letter-spacing="-2">김명준</text>
+<text x="58" y="152" font-size="22" fill="#5B636A">Embedded Software Engineer</text>
+<rect x="58" y="196" width="4" height="56" fill="#0B6B4C"/>
+<text x="78" y="220" font-size="26" font-weight="700" fill="#0B6B4C">추측하지 않고 확인합니다</text>
+<text x="78" y="248" font-size="16" fill="#5B636A">배포 대상 장비에서 직접 측정하고, 그 값을 고른 이유를 코드에 남깁니다.</text>
+<line x1="640" y1="240" x2="1160" y2="240" stroke="#D8DDE1"/>
+<line x1="640" y1="240" x2="640" y2="246" stroke="#D8DDE1"/><line x1="744" y1="240" x2="744" y2="246" stroke="#D8DDE1"/><line x1="848" y1="240" x2="848" y2="246" stroke="#D8DDE1"/><line x1="952" y1="240" x2="952" y2="246" stroke="#D8DDE1"/><line x1="1056" y1="240" x2="1056" y2="246" stroke="#D8DDE1"/><line x1="1160" y1="240" x2="1160" y2="246" stroke="#D8DDE1"/>
+<path d="M640 228 H744 V206 H848 V184 H952 V162 H1056 V118 H1160" fill="none" stroke="#0B6B4C" stroke-width="3" stroke-linejoin="miter"/>
+<circle cx="1160" cy="118" r="5" fill="#0B6B4C"/>
+<text x="640" y="72" font-size="13" fill="#5B636A" letter-spacing="0.5">감으로 고치던 방식에서, 측정으로 결정하는 방식으로</text>
+<text x="644" y="262" font-size="13" fill="#5B636A" font-weight="600">Recoder</text><text x="644" y="280" font-size="12" fill="#5B636A">2024</text><text x="748" y="262" font-size="13" fill="#5B636A" font-weight="600">RunTracker</text><text x="748" y="280" font-size="12" fill="#5B636A">2025</text><text x="852" y="262" font-size="13" fill="#5B636A" font-weight="600">Qt</text><text x="852" y="280" font-size="12" fill="#5B636A">2026.04</text><text x="956" y="262" font-size="13" fill="#5B636A" font-weight="600">TCP</text><text x="956" y="280" font-size="12" fill="#5B636A">2026.06</text><text x="1060" y="262" font-size="13" fill="#5B636A" font-weight="600">주차장 관제</text><text x="1060" y="280" font-size="12" fill="#5B636A">2026.07</text>
+</svg>
