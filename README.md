@@ -85,7 +85,7 @@
 | 하드웨어 | Raspberry Pi 4, GPIO, I2C, UART 프레임 규약 |
 | 빌드·검증 | CMake, Makefile, GoogleTest, GitHub Actions, clang-format, clang-tidy |
 | 배포 | Docker, buildx·QEMU, Docker Compose, logrotate |
-| 데이터베이스·저장소 | MySQL, Oracle, SQLite, Redis, AWS S3 |
+| 데이터베이스·저장소 | MySQL, SQLite, Redis, AWS S3 |
 
 <br>
 
